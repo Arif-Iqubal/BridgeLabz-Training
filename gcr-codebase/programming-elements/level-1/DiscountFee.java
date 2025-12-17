@@ -19,7 +19,7 @@ public class DiscountFee{
 	
 	
 	// Displaying message to user, to enter the discount percentage
-	System.out.println("Enter the fee : ");
+	System.out.println("Enter the discount percentage : ");
 	
 	// Creating a variable double and storing the user input distance in kilometer
 	int discountPercentage = input.nextInt();
