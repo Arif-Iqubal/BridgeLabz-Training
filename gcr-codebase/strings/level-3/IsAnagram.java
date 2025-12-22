@@ -1,7 +1,7 @@
 // Program to check if two texts are anagrams
 import java.util.Scanner;
 
-public class IsAnagram {
+public class IsAnagram{
 
     // Method to check anagram using ASCII frequency array
     public static boolean isAnagram(String text1, String text2) {
