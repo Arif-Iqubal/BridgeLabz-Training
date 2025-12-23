@@ -38,11 +38,13 @@ public class DeckOfCards {
     // Method to distribute cards to players
     public static String[][] distributeCards(String[] deck, int players, int cards) {
 
-        if (cards % players != 0) {
+		int totalNumberOfCards = deck.length;
+
+        if (cards * players !=  totalNumberOfCards) {
             return null;
         }
 
-        int cardsPerPlayer = cards / players;
+        int cardsPerPlayer = cards ;
         String[][] distributedCards = new String[players][cardsPerPlayer];
 
         int index = 0;
