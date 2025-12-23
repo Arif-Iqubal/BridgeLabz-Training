@@ -1,7 +1,7 @@
 // Program to display calendar for a given month and year
 import java.util.Scanner;
 
-public class CalendarDisplay {
+public class CalendarDisplay{
 
     // Method to get month name
     public static String getMonthName(int month) {
@@ -52,8 +52,8 @@ public class CalendarDisplay {
         System.out.println("\n\t" + getMonthName(month) + " " + year);
         System.out.println("Sun Mon Tue Wed Thu Fri Sat");
 
-        int firstDay = getFirstDay(month, year);
-        int numberOfDays = getDaysInMonth(month, year);
+        int firstDay = CalendarDisplay.getFirstDay(month, year);
+        int numberOfDays = CalendarDisplay. getDaysInMonth(month, year);
 
         // Indentation before first day
         for (int i = 0; i < firstDay; i++) {
