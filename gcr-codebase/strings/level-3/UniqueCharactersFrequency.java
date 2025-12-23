@@ -1,7 +1,7 @@
 // Program to find frequency of characters in a string using unique characters
 import java.util.Scanner;
 
-public class UniqueCharactersFrequency {
+public class UniqueCharactersFrequency{
 
     // Method to find unique characters using charAt() and nested loops
     public static char[] findUniqueCharacters(String text) {
