@@ -1,4 +1,4 @@
-// Program to check if two texts are anagrams
+// Program to check if two texts are anagrams or not
 import java.util.Scanner;
 
 public class IsAnagram{
