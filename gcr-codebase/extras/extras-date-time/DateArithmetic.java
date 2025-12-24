@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class DateArithmetic {
+public class DateArithmetic{
 
     public static void main(String[] args) {
         // Define the initial date
