@@ -1,6 +1,7 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
+//Create a class DateArithmetic to perform arithmetic operations on dates
 public class DateArithmetic{
 
     public static void main(String[] args) {
