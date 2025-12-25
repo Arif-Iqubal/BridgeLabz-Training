@@ -87,3 +87,21 @@ Practiced and implemented essential Java Methods concepts, including:
     Static methods in Java
     Java Standard Library methods
     Usage of the java.lang.Math class
+
+
+Day 7 – Java String Practices
+(Date: 22-Dec-2025)
+Submitted Level 1, Level 2, and Level 3 Java String Lab Practices
+Practiced and implemented important Java String and Exception Handling concepts, including:
+    Java Strings and string creation
+    Use of escape sequences (\)
+    Taking string input from the user
+    String arrays
+    Passing strings as method parameters
+    Built-in methods of the String class
+    ASCII character codes
+    Java exceptions overview
+    Java exception hierarchy
+    Types of exceptions:
+        Checked exceptions
+        Unchecked exceptions (java.lang.RuntimeException)
