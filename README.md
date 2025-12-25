@@ -105,3 +105,18 @@ Practiced and implemented important Java String and Exception Handling concepts,
     Types of exceptions:
         Checked exceptions
         Unchecked exceptions (java.lang.RuntimeException)
+
+
+Day 8 – Extra Java String and built-in functions Practice Problems
+(Date: 23-Dec-2025)
+Submitted Extra Java String Practice Problems
+Focused on strengthening practical usage of Strings through problem-solving
+Implemented programs emphasizing:
+      String handling techniques
+      Common string functions
+      Function usage for string operations
+      Function parameter passing
+      Returning values from functions
+Submitted Extra Built-In Function Practice Problems
+Focused on understanding and applying common Java built-in functions
+Practiced building correct program logic using standard library methods instead of manual implementations
