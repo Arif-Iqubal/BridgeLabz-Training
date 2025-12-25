@@ -120,3 +120,10 @@ Implemented programs emphasizing:
 Submitted Extra Built-In Function Practice Problems
 Focused on understanding and applying common Java built-in functions
 Practiced building correct program logic using standard library methods instead of manual implementations
+
+Day 9 – Scenario-Based & LeetCode Practice
+(Date: 24-Dec-2025)
+Solved 2 scenario-based programming questions
+Solved 5 basic LeetCode problems
+Focused on applying Java fundamentals to real-world problem scenarios
+Strengthened problem-solving and logical thinking skills
