@@ -57,3 +57,20 @@ Practiced and implemented core Java Control Flow concepts, including:
       while loop
     break and continue statements
     switch statement
+
+
+Day 5 – Arrays Practices in Java
+(Date: 20-Dec-2025)
+Submitted Level 1 and Level 2 Arrays Lab Practices
+Practiced core Java Arrays concepts, including:
+    Introduction to Java Arrays
+    Creating an array
+    Accessing array elements
+    Accessing arrays using for loops
+    Modifying array elements
+    Using the length property of arrays
+    Multi-dimensional arrays
+    Two-dimensional arrays (Matrix)
+    Accessing elements and finding size of multi-dimensional arrays
+    Using System.err() for error messages
+    Using System.exit() method for program termination
