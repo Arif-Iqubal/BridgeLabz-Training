@@ -32,3 +32,15 @@ Solved basic Java programs to understand syntax and program structure
 Practiced adding, committing, and pushing Java files to GitHub
 ### 🔗 Code Link:
 [Day - 2 Basic java programming](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
+
+### Day 3 – Programming Elements in Java
+(Date: 18-Dec-2025)
+Studied core Java programming elements:
+    Variables & Data Types
+    Operators
+    User Input & Output
+Solved practice problems based on programming elements
+Committed and pushed solutions to the repository
+### 🔗 Code Link:
+[Day - 3 Programming Elements](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
