@@ -34,7 +34,7 @@ Practiced adding, committing, and pushing Java files to GitHub
 [Day - 2 Basic java programming](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
 
 ### Day 3 – Programming Elements in Java
-(Date: 18-Dec-2025)
+📅(Date: 18-Dec-2025)
 Studied core Java programming elements:
     Variables & Data Types
     Operators
@@ -45,7 +45,7 @@ Committed and pushed solutions to the repository
 [Day - 3 Programming Elements](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ### Day 4 – Control Flow Practices in Java
-(Date: 19-Dec-2025)
+📅(Date: 19-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Control Flow Lab Practices
 Practiced and implemented core Java Control Flow concepts, including:
     Java Control Flow statements
@@ -62,7 +62,7 @@ Practiced and implemented core Java Control Flow concepts, including:
 [Day - 4 Control flow practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ### Day 5 – Arrays Practices in Java
-(Date: 20-Dec-2025)
+📅(Date: 20-Dec-2025)
 Submitted Level 1 and Level 2 Arrays Lab Practices
 Practiced core Java Arrays concepts, including:
     Introduction to Java Arrays
@@ -80,7 +80,7 @@ Practiced core Java Arrays concepts, including:
 [Day - 5 Array practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ### Day 6 – Java Methods Practices
-(Date: 22-Dec-2025)
+📅(Date: 22-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Java Methods Practice Programs
 Practiced and implemented essential Java Methods concepts, including:
     User-defined methods
@@ -94,7 +94,7 @@ Practiced and implemented essential Java Methods concepts, including:
 [Day - 6 java methods practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ### Day 7 – Java String Practices
-(Date: 23-Dec-2025)
+📅(Date: 23-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Java String Lab Practices
 Practiced and implemented important Java String and Exception Handling concepts, including:
     Java Strings and string creation
@@ -113,7 +113,7 @@ Practiced and implemented important Java String and Exception Handling concepts,
 [Day - 7 Java String practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ### Day 8 – Extra Java String and built-in functions Practice Problems
-(Date: 24-Dec-2025)
+📅(Date: 24-Dec-2025)
 Submitted Extra Java String Practice Problems
 Focused on strengthening practical usage of Strings through problem-solving
 Implemented programs emphasizing:
@@ -133,7 +133,7 @@ Strengthened problem-solving and logical thinking skills
 
 
 ### Day 9 – Scenario-based programming questions and Java: Classes and Objects (OOP Basics)
-(Date: 26-Dec-2025)
+📅(Date: 26-Dec-2025)
 Solved 3 scenario-based programming questions
 Solved 5 basic LeetCode problems
 Focused on applying Java fundamentals to real-world problem scenarios
