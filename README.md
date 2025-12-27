@@ -44,3 +44,21 @@ Committed and pushed solutions to the repository
 ### 🔗 Code Link:
 [Day - 3 Programming Elements](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+### Day 4 – Control Flow Practices in Java
+(Date: 19-Dec-2025)
+Submitted Level 1, Level 2, and Level 3 Control Flow Lab Practices
+Practiced and implemented core Java Control Flow concepts, including:
+    Java Control Flow statements
+    Boolean data type
+    Boolean expressions
+    Logical operators
+    if, else if, and else conditional statements
+    Looping constructs:
+      for loop
+      while loop
+    break and continue statements
+    switch statement
+### 🔗 Code Link:
+[Day - 4 Control flow practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+
