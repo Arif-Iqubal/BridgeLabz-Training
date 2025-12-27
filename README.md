@@ -131,3 +131,18 @@ Strengthened problem-solving and logical thinking skills
 ### 🔗 Code Link:
 [Day - 8 In-Built methods practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
+
+### Day 9 – Scenario-based programming questions and Java: Classes and Objects (OOP Basics)
+(Date: 26-Dec-2025)
+Solved 3 scenario-based programming questions
+Solved 5 basic LeetCode problems
+Focused on applying Java fundamentals to real-world problem scenarios
+Strengthened problem-solving and logical thinking skills
+Learned and practiced Object-Oriented Programming (OOP) fundamentals in Java
+Understood the difference between Procedural Programming and Object-Oriented Programming
+Implemented programs using Classes, Objects, Constructors, and Methods
+Solved real-world style programs to apply OOP concepts effectively
+### 🔗 Code Link:
+[Day - 9 Scenario based questions](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+### 🔗 Code Link:
+[Day - 9 Java: Classes and Objects](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
