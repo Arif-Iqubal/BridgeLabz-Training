@@ -92,3 +92,22 @@ Practiced and implemented essential Java Methods concepts, including:
     Usage of the java.lang.Math class
 ### 🔗 Code Link:
 [Day - 6 java methods practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+### Day 7 – Java String Practices
+(Date: 23-Dec-2025)
+Submitted Level 1, Level 2, and Level 3 Java String Lab Practices
+Practiced and implemented important Java String and Exception Handling concepts, including:
+    Java Strings and string creation
+    Use of escape sequences (\)
+    Taking string input from the user
+    String arrays
+    Passing strings as method parameters
+    Built-in methods of the String class
+    ASCII character codes
+    Java exceptions overview
+    Java exception hierarchy
+    Types of exceptions:
+        Checked exceptions
+        Unchecked exceptions (java.lang.RuntimeException)
+### 🔗 Code Link:
+[Day - 7 Java String practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
