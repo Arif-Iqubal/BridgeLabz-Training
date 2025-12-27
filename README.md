@@ -79,3 +79,16 @@ Practiced core Java Arrays concepts, including:
 ### 🔗 Code Link:
 [Day - 5 Array practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
+### Day 6 – Java Methods Practices
+(Date: 22-Dec-2025)
+Submitted Level 1, Level 2, and Level 3 Java Methods Practice Programs
+Practiced and implemented essential Java Methods concepts, including:
+    User-defined methods
+    Reusing methods multiple times
+    Making methods more dynamic using parameters
+    Recursive methods
+    Static methods in Java
+    Java Standard Library methods
+    Usage of the java.lang.Math class
+### 🔗 Code Link:
+[Day - 6 java methods practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
