@@ -1,5 +1,5 @@
 package com.constructorandinstance.level1;
-
+//Inheriting properties of Employee class
 public class Manager extends Employee {
 
 	Manager(String employeeID, String department, int salary) {
