@@ -144,3 +144,13 @@ Focused on applying Java fundamentals to real-world problem scenarios
 Strengthened problem-solving and logical thinking skills
 ### 🔗 Code Link:
 [Day - 9 Scenario based questions](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+### Day 11 – Scenario-based programming questions
+(Date: 29-Dec-2025)
+Solved 5 scenario-based programming questions
+Solved 3 basic LeetCode problems
+Focused on applying Java fundamentals to real-world problem scenarios
+Strengthened problem-solving and logical thinking skills
+### 🔗 Code Link:
+[Day - 11 Scenario based questions](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
