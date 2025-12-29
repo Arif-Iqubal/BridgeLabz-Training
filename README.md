@@ -16,3 +16,13 @@ Differentiated between instance variables/methods and class (static) variables/m
 Built real-world programs to apply concepts practically
 ### 🔗 Code Link:
 [Day - 10 Java: Constructor and Instance](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructorandinstance/level1)
+
+
+### Day 11 – this, static, final Keywords, instanceof & Scenario-Based Practice
+📅 (Date: 29-Dec-2025)
+Learned and practiced important Java keywords and operators used in Object-Oriented Programming
+Strengthened understanding of code structure, memory management, and runtime behavior
+Solved 5 scenario-based programming questions applying real-world logic using Java
+Implemented examples to reinforce both theoretical and practical concepts
+### 🔗 Code Link:
+[Day - 11 Java: keywords and Scenario-based practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeywords)
