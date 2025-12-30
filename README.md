@@ -26,3 +26,13 @@ Solved 5 scenario-based programming questions applying real-world logic using Ja
 Implemented examples to reinforce both theoretical and practical concepts
 ### 🔗 Code Link:
 [Day - 11 Java: keywords and Scenario-based practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeywords)
+
+
+### Day 12 – UML Diagrams: Class Diagram & Sequence Diagram
+📅 (Date: 30-Dec-2025)
+Learned the fundamentals of UML (Unified Modeling Language) diagrams
+Understood how UML diagrams help in object-oriented system design
+Studied both static and dynamic views of a system using diagrams
+Analyzed real-world examples to understand object relationships and interactions
+### 🔗 Code Link:
+[Day - 12 Java: Class Diagram & Sequence Diagram](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling/level1)
