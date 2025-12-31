@@ -2,8 +2,9 @@ package com.objectmodeling.level1;
 
 //Importing ArrayList from java.util package
 import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.List;
-
+import java.util.ArrayList;
 public class Department {
 	//Private instance of Department class
     private String departmentName;
