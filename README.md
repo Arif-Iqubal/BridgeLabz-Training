@@ -1,8 +1,9 @@
 ### Day 1 - Git & GitHub Setup
-(Date: 16-Dec-2025)
+📅(Date: 16-Dec-2025)
 
 Installed and configured Git.
 Set up GitHub repository.
+``` bash
   BridgeLabz-Training/
   │
   ├── core-java-practice/
@@ -21,12 +22,14 @@ Set up GitHub repository.
   │   └─README.md
   │
   └── README.md
+
+```
 Learned basic Git commands (init, clone, add, commit, push).
 Successfully pushed files to the remote repository.
 
 
 ### Day 2 - Git  Practice & Basic Java Programs
-(Date: 17-Dec-2025)
+📅(Date: 17-Dec-2025)
 
 Practiced Git workflow to understand version control
 Solved basic Java programs to understand syntax and program structure
@@ -37,7 +40,7 @@ Practiced adding, committing, and pushing Java files to GitHub
 
 
 ### Day 3 – Programming Elements in Java
-(Date: 18-Dec-2025)
+📅(Date: 18-Dec-2025)
 Studied core Java programming elements:
     Variables & Data Types
     Operators
@@ -48,7 +51,7 @@ Committed and pushed solutions to the repository
 [Day - 3 Programming Elements](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ### Day 4 – Control Flow Practices in Java
-(Date: 19-Dec-2025)
+📅(Date: 19-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Control Flow Lab Practices
 Practiced and implemented core Java Control Flow concepts, including:
     Java Control Flow statements
@@ -66,7 +69,7 @@ Practiced and implemented core Java Control Flow concepts, including:
 
 
 ### Day 5 – Arrays Practices in Java
-(Date: 20-Dec-2025)
+📅(Date: 20-Dec-2025)
 Submitted Level 1 and Level 2 Arrays Lab Practices
 Practiced core Java Arrays concepts, including:
     Introduction to Java Arrays
@@ -84,7 +87,7 @@ Practiced core Java Arrays concepts, including:
 [Day - 5 Array practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ### Day 6 – Java Methods Practices
-(Date: 22-Dec-2025)
+📅(Date: 22-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Java Methods Practice Programs
 Practiced and implemented essential Java Methods concepts, including:
     User-defined methods
@@ -98,7 +101,7 @@ Practiced and implemented essential Java Methods concepts, including:
 [Day - 6 java methods practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ### Day 7 – Java String Practices
-(Date: 23-Dec-2025)
+📅(Date: 23-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Java String Lab Practices
 Practiced and implemented important Java String and Exception Handling concepts, including:
     Java Strings and string creation
@@ -117,7 +120,7 @@ Practiced and implemented important Java String and Exception Handling concepts,
 [Day - 7 Java String practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ### Day 8 – Extra Java String and built-in functions Practice Problems
-(Date: 24-Dec-2025)
+📅(Date: 24-Dec-2025)
 Submitted Extra Java String Practice Problems
 Focused on strengthening practical usage of Strings through problem-solving
 Implemented programs emphasizing:
@@ -137,7 +140,7 @@ Strengthened problem-solving and logical thinking skills
 
 
 ### Day 9 – Scenario-based programming questions
-(Date: 26-Dec-2025)
+📅(Date: 26-Dec-2025)
 Solved 3 scenario-based programming questions
 Solved 5 basic LeetCode problems
 Focused on applying Java fundamentals to real-world problem scenarios
@@ -147,10 +150,21 @@ Strengthened problem-solving and logical thinking skills
 
 
 ### Day 11 – Scenario-based programming questions
-(Date: 29-Dec-2025)
+📅(Date: 29-Dec-2025)
 Solved 5 scenario-based programming questions
 Solved 3 basic LeetCode problems
 Focused on applying Java fundamentals to real-world problem scenarios
 Strengthened problem-solving and logical thinking skills
 ### 🔗 Code Link:
 [Day - 11 Scenario based questions](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+### Day 12 – Scenario-based programming questions
+📅(Date: 30-Dec-2025)
+Solved 5 scenario-based Java programming questions
+Solved 4 basic LeetCode problems
+Focused on strengthening problem-solving skills and applying Java concepts to real-world use cases
+Improved logical thinking and coding efficiency through hands-on practice
+### 🔗 Code Link:
+[Day - 12 Scenario based questions](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+[Leet Code Quesitions](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
