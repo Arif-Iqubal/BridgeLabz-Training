@@ -2,7 +2,9 @@
 📅(Date: 16-Dec-2025)
 
 Installed and configured Git.
+
 Set up GitHub repository.
+``` bash
   BridgeLabz-Training/
   │
   ├── core-java-practice/
@@ -21,6 +23,8 @@ Set up GitHub repository.
   │   └─README.md
   │
   └── README.md
+
+```
 Learned basic Git commands (init, clone, add, commit, push).
 Successfully pushed files to the remote repository.
 
