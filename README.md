@@ -36,3 +36,12 @@ Studied both static and dynamic views of a system using diagrams
 Analyzed real-world examples to understand object relationships and interactions
 ### 🔗 Code Link:
 [Day - 12 Java: Class Diagram & Sequence Diagram](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling/level1)
+
+
+### Day 13 – Java Inheritance & Method Overriding
+📅 (Date: 31-Dec-2025)
+Learned Inheritance, one of the core pillars of Object-Oriented Programming (OOP)
+Understood how classes reuse and extend functionality using inheritance
+Implemented different types of inheritance supported by Java
+Practiced method overriding, constructor chaining, and polymorphism concepts
+[Day - 13 Java: Inheritance & Method Overriding](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
