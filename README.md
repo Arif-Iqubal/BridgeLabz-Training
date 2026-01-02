@@ -57,3 +57,11 @@ Solved several scenario-based programming questions to apply concepts practicall
 ### 🔗 Code Link:
 [Day - 14 Java: Encapsulation & Polymorphism](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 [Day - 14 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 15 – Scenario-Based Java Practice
+📅 (Date: 02-Jan-2026)
+Solved 6 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+[Day - 15 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
