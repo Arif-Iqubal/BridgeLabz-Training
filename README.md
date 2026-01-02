@@ -202,4 +202,21 @@ Implemented multiple inheritance hierarchies and polymorphic behaviors
 Solved several scenario-based programming questions to apply concepts practically
 ### 🔗 Code Link:
 [Day - 14 Java: Encapsulation & Polymorphism](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
-[Day - 14 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+[ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 15 – Data Structures & Linked Lists in Java
+📅 (Date: 02-Jan-2026)
+Learned the fundamentals of Data Structures and their importance in efficient programming
+Studied different types of data structures used in Java
+Focused in detail on Linked Lists, including:
+    Singly Linked List
+    Doubly Linked List
+    Circular Linked List
+Implemented and understood core operations on linked lists
+Solved 6 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+### 🔗 Code Link:
+[Day - 15 Data Structures & Linked Lists](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist)
+[ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
