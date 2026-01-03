@@ -44,4 +44,24 @@ Learned Inheritance, one of the core pillars of Object-Oriented Programming (OOP
 Understood how classes reuse and extend functionality using inheritance
 Implemented different types of inheritance supported by Java
 Practiced method overriding, constructor chaining, and polymorphism concepts
+### 🔗 Code Link:
 [Day - 13 Java: Inheritance & Method Overriding](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+
+
+### Day 14 – Java Encapsulation, Polymorphism & Scenario-Based Practice
+📅 (Date: 01-Jan-2026)
+Studied Encapsulation, Polymorphism, Abstract Classes, and Interfaces in Java
+Understood how OOP principles help in building scalable and reusable systems
+Implemented multiple inheritance hierarchies and polymorphic behaviors
+Solved several scenario-based programming questions to apply concepts practically
+### 🔗 Code Link:
+[Day - 14 Java: Encapsulation & Polymorphism](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+[Day - 14 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 15 – Scenario-Based Java Practice
+📅 (Date: 02-Jan-2026)
+Solved 6 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+[Day - 15 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
