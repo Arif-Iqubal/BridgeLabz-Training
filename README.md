@@ -220,3 +220,11 @@ Strengthened logical thinking and problem decomposition skills
 ### 🔗 Code Link:
 [Day - 15 Data Structures & Linked Lists](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist)
 [ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 16 – Scenario-Based Practice
+📅 (Date: 03-Jan-2026)
+Solved 2 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+[Day - 16 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
