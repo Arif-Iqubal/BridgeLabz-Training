@@ -65,3 +65,12 @@ Solved 6 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 Strengthened logical thinking and problem decomposition skills
 [Day - 15 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 16 – Scenario-Based Practice
+📅 (Date: 03-Jan-2026)
+Solved 2 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+[Day - 16 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
