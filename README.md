@@ -21,3 +21,12 @@ Implemented practical examples using Java built-in data structures
 [Day - 16 – Stack in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stack)
 [Queue in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/queue)
 [Hashing in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmapsandhashfunctions)
+
+
+### Day 17 – Sorting Algorithms in Java
+📅 (Date: 05-Jan-2026)
+Studied fundamental sorting algorithms used in computer science
+Understood working principles, time & space complexities, and use cases
+Implemented and analyzed multiple comparison-based and divide-and-conquer sorting algorithms
+Compared different sorting techniques to understand their strengths and limitations
+[Day - 17 – Sorting in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting)
