@@ -29,4 +29,16 @@ Studied fundamental sorting algorithms used in computer science
 Understood working principles, time & space complexities, and use cases
 Implemented and analyzed multiple comparison-based and divide-and-conquer sorting algorithms
 Compared different sorting techniques to understand their strengths and limitations
+### 🔗 Code Link:
 [Day - 17 – Sorting in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting)
+
+
+### Day 18 – Searching Algorithms, Strings & File Handling in Java
+📅 (Date: 06-Jan-2026)
+Studied and implemented Searching Algorithms: Linear Search and Binary Search
+Applied searching techniques to real-world file-based problems
+Learned StringBuilder vs StringBuffer in depth with performance and thread-safety analysis
+Practiced file handling and input handling using BufferedReader, FileReader, and InputStreamReader
+Focused on performance, memory usage, and best practices
+### 🔗 Code Link:
+[Day - 18 –  Searching Algorithms, Strings & File Handling in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
