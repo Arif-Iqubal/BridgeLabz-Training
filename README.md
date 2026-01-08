@@ -250,3 +250,18 @@ Focused on applying core OOP principles to real-world problem statements
 Strengthened understanding of class design, object interaction, and modular coding
 [Day - 17 – Sorting in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting)
 [ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 18 – Searching Algorithms, Strings & File Handling and Scenario-Based Practice in Java
+📅 (Date: 06-Jan-2026)
+Solved 4 Object-Oriented Programming (OOP) based scenario questions
+Focused on applying core OOP principles to real-world problem statements
+Strengthened understanding of class design, object interaction, and modular coding
+Studied and implemented Searching Algorithms: Linear Search and Binary Search
+Applied searching techniques to real-world file-based problems
+Learned StringBuilder vs StringBuffer in depth with performance and thread-safety analysis
+Practiced file handling and input handling using BufferedReader, FileReader, and InputStreamReader
+Focused on performance, memory usage, and best practices
+### 🔗 Code Link:
+[Day - 18 –  Searching Algorithms, Strings & File Handling in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
+[ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
