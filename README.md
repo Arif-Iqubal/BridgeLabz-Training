@@ -64,6 +64,7 @@ Solved several scenario-based programming questions to apply concepts practicall
 Solved 6 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 Strengthened logical thinking and problem decomposition skills
+### 🔗 Code Link:
 [Day - 15 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
@@ -72,6 +73,7 @@ Strengthened logical thinking and problem decomposition skills
 Solved 2 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 Strengthened logical thinking and problem decomposition skills
+### 🔗 Code Link:
 [Day - 16 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
@@ -80,6 +82,7 @@ Strengthened logical thinking and problem decomposition skills
 Solved 2 Object-Oriented Programming (OOP) based scenario questions
 Focused on applying core OOP principles to real-world problem statements
 Strengthened understanding of class design, object interaction, and modular coding
+### 🔗 Code Link:
 [Day - 17 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
@@ -88,6 +91,7 @@ Strengthened understanding of class design, object interaction, and modular codi
 Solved 4 Object-Oriented Programming (OOP) based scenario questions
 Focused on applying core OOP principles to real-world problem statements
 Strengthened understanding of class design, object interaction, and modular coding
+### 🔗 Code Link:
 [Day - 18 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
@@ -96,4 +100,5 @@ Strengthened understanding of class design, object interaction, and modular codi
 Solved 3 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 Strengthened logical thinking and problem decomposition skills
+### 🔗 Code Link:
 [Day - 19 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
