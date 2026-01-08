@@ -281,3 +281,10 @@ Strengthened logical thinking and problem decomposition skills
 [ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
+### Day 20 – Scenario-Based Practice
+📅 (Date: 08-Jan-2026)
+Solved 2 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+### 🔗 Code Link:
+[Day - 20 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
