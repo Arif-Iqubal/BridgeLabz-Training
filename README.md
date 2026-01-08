@@ -42,3 +42,13 @@ Practiced file handling and input handling using BufferedReader, FileReader, and
 Focused on performance, memory usage, and best practices
 ### 🔗 Code Link:
 [Day - 18 –  Searching Algorithms, Strings & File Handling in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
+
+
+### Day 19 – Runtime Analysis & Big-O Notation
+📅 (Date: 07-Jan-2026)
+Learned Runtime Analysis to evaluate algorithm efficiency
+Studied Big-O Notation to measure time and space complexity
+Analyzed common algorithms with best, average, and worst-case scenarios
+Practiced identifying complexity using real Java code examples
+Focused on writing optimized and scalable Java programs
+[Day - 19 – Runtime Analysis & Big-O Notation](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
