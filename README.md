@@ -265,3 +265,19 @@ Focused on performance, memory usage, and best practices
 ### 🔗 Code Link:
 [Day - 18 –  Searching Algorithms, Strings & File Handling in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
 [ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 19 – Runtime Analysis & Big-O Notation and Scenario-Based Practice
+📅 (Date: 07-Jan-2026)
+Learned Runtime Analysis to evaluate algorithm efficiency
+Studied Big-O Notation to measure time and space complexity
+Analyzed common algorithms with best, average, and worst-case scenarios
+Practiced identifying complexity using real Java code examples
+Focused on writing optimized and scalable Java programs
+Solved 3 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+[Day - 19 – Runtime Analysis & Big-O Notation](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
+[ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
