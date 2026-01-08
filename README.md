@@ -91,3 +91,9 @@ Strengthened understanding of class design, object interaction, and modular codi
 [Day - 18 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
+### Day 19 – Scenario-Based Practice
+📅 (Date: 07-Jan-2026)
+Solved 3 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+Strengthened logical thinking and problem decomposition skills
+[Day - 19 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
