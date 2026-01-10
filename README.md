@@ -297,3 +297,12 @@ Focused on applying Object-Oriented Programming (OOP) concepts to real-world pro
 Strengthened logical thinking and problem decomposition skills
 ### 🔗 Code Link:
 [Day - 21 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 22 – DSA Scenario-Based Problem Solving
+📅 Date: 10-Jan-2026
+Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
+Focused on applying DSA concepts to real-world problem statements
+Strengthened logical thinking and approach selection for efficient solutions
+### 🔗 Code Link:
+[Day - 22 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
