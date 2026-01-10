@@ -51,4 +51,14 @@ Studied Big-O Notation to measure time and space complexity
 Analyzed common algorithms with best, average, and worst-case scenarios
 Practiced identifying complexity using real Java code examples
 Focused on writing optimized and scalable Java programs
+### 🔗 Code Link:
 [Day - 19 – Runtime Analysis & Big-O Notation](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
+
+
+### Day 22 – DSA Scenario-Based Problem Solving
+📅 Date: 10-Jan-2026
+Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
+Focused on applying DSA concepts to real-world problem statements
+Strengthened logical thinking and approach selection for efficient solutions
+### 🔗 Code Link:
+[Day - 22 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
