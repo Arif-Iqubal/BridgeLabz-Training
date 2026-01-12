@@ -56,7 +56,7 @@ Focused on writing optimized and scalable Java programs
 
 
 ### Day 22 – DSA Scenario-Based Problem Solving
-📅 Date: 10-Jan-2026
+📅 Date: (10-Jan-2026)
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying DSA concepts to real-world problem statements
 Strengthened logical thinking and approach selection for efficient solutions
