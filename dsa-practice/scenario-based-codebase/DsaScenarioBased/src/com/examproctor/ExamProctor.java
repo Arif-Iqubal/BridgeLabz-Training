@@ -5,8 +5,10 @@ import java.util.Map;
 import java.util.Stack;
 import java.util.Scanner;
 
+//Main Class
 public class ExamProctor {
 
+	// Static instance of class
 	static Stack<Question> question = new Stack<>();
 	static Stack<Question> backward = new Stack<>();
 	static Map<Integer, Integer> answer = new HashMap<>();
@@ -102,6 +104,7 @@ public class ExamProctor {
 
 	public static void main(String[] args) {
 
+		// Creating objects of questions
 		Question question1 = new Question(10, "What is the time complexity of binary search?", "O(n)", "O(log n)",
 				"O(n log n)", "O(1)", 2);
 
@@ -132,6 +135,7 @@ public class ExamProctor {
 		Question question10 = new Question(1, "Which access modifier has the highest visibility?", "private", "default",
 				"protected", "public", 4);
 
+		// Adding questions to question stack
 		addQuestion(question1);
 		addQuestion(question2);
 		addQuestion(question3);
@@ -143,8 +147,10 @@ public class ExamProctor {
 		addQuestion(question9);
 		addQuestion(question10);
 
+		// Method to set total score
 		setTotalScore(10);
 
+		// Method to display questions
 		displayQuestion();
 
 	}
