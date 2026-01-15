@@ -152,6 +152,6 @@ public class ExamProctor {
 
 		// Method to display questions
 		displayQuestion();
-
+ 
 	}
 }
