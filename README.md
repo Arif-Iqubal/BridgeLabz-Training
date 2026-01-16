@@ -6,4 +6,4 @@ Implemented generic classes, generic methods, bounded types, and wildcards
 Designed a real-world Flight Scheduling System using generics
 Strengthened understanding of compile-time type safety
 ### 🔗 Code Link:
-[Day - 25 Java: Java Generics](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/generics)
+[Day - 25 Java: Generics](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/generics)
