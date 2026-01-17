@@ -22,7 +22,7 @@ public class SmartSelf {
 
 	}
 
-	// Method to sort Book in a self
+	// Method to sort Book in a self by title
 	static void sortBook() {
 
 		for (int i = 1; i < bookSelf.length; ++i) {
