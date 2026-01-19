@@ -370,3 +370,13 @@ Strengthened logical thinking and problem decomposition skills
 ### 🔗 Code Link:
 [Day - 27 Java: OOps Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 [ DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+
+
+### Day 28 – DSA Scenario-Based Practice(Sorting)
+📅 (Date: 19-Jan-2026)
+Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
+Focused on applying sorting data structures to real-world problems
+Strengthened understanding of data structure selection and efficient problem-solving
+### 🔗 Code Link:
+[Day - 28 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
