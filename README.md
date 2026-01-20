@@ -382,6 +382,7 @@ Solved 1 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 ### 🔗 Code Link:
 [Day - 28 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+[ OOps Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
 
