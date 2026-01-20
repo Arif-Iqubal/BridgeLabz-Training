@@ -373,17 +373,19 @@ Strengthened logical thinking and problem decomposition skills
 
 
 
-### Day 28 – DSA Scenario-Based Practice(Sorting)
+### Day 28 – DSA & OOPs Scenario-Based Practice
 📅 (Date: 19-Jan-2026)
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
+Solved 1 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 ### 🔗 Code Link:
 [Day - 28 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 
 
-### Day 29 – DSA Scenario-Based Practice(Sorting)
+### Day 29 – DSA Scenario-Based Practice
 📅 (Date: 20-Jan-2026)
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting data structures to real-world problems
