@@ -105,6 +105,7 @@ public class EduResult {
 				j++;
 			}
 		}
+		mergeSortScore(arr, i, j - 1);
 	}
 
 	public static void mergeSortScore(Student[] arr, int l, int r) {
