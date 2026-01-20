@@ -148,3 +148,13 @@ Focused on applying Object-Oriented Programming (OOP) concepts to real-world pro
 Strengthened logical thinking and problem decomposition skills
 ### 🔗 Code Link:
 [Day - 27 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+### Day 28 - OOPs Scenario-Based Practice
+📅 (Date: 19-Jan-2026)
+
+Solved 1 scenario-based Java programming questions
+Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+### 🔗 Code Link:
+[Day - 28 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
