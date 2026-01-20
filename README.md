@@ -380,3 +380,14 @@ Focused on applying sorting data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
 ### 🔗 Code Link:
 [Day - 28 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+
+
+### Day 29 – DSA Scenario-Based Practice(Sorting)
+📅 (Date: 20-Jan-2026)
+Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
+Focused on applying sorting data structures to real-world problems
+Strengthened understanding of data structure selection and efficient problem-solving
+### 🔗 Code Link:
+[Day - 29 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
