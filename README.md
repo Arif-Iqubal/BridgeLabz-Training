@@ -7,3 +7,16 @@ Designed a real-world Flight Scheduling System using generics
 Strengthened understanding of compile-time type safety
 ### 🔗 Code Link:
 [Day - 25 Java: Generics](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/generics)
+
+### Day 26 – Java Collection Framework Overview
+📅 (Date: 16-Jan-2026)
+Studied the Java Collection Framework architecture and hierarchy
+Understood core interfaces, classes, and their relationships
+Practiced usage of List, Set, Queue, Deque, and Map implementations
+Compared performance, ordering, and use cases of different collections
+Strengthened understanding of real-world use cases and best practices
+### 🔗 Code Link:
+[Day - 26 Java: List](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/list/basic)
+[ Queue](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/queue)
+[ Set](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/set)
+[ Map](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/map)
