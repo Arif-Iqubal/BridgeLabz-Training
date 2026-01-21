@@ -355,6 +355,17 @@ Strengthened understanding of data structure selection and efficient problem-sol
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
+📅 (Date: 16-Jan-2026)
+Studied the Java Collection Framework architecture and hierarchy
+Understood core interfaces, classes, and their relationships
+Practiced usage of List, Set, Queue, Deque, and Map implementations
+Compared performance, ordering, and use cases of different collections
+Strengthened understanding of real-world use cases and best practices
+### 🔗 Code Link:
+[Day - 26 Java: List](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/list/basic)
+[ Queue](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/queue)
+[ Set](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/set)
+[ Map](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/map)
 ### 🔗 Code Link:
 [Day - 26 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
