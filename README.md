@@ -232,6 +232,7 @@ Studied important linear and hash-based data structures in Java
 Learned Stacks, Queues, HashMap, and Hashing functions
 Understood internal working, operations, use cases, and performance
 Implemented practical examples using Java built-in data structures
+### 🔗 Code Link:
 [Day - 16 Java: Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 [Stack in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stack)
 [Queue in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/queue)
@@ -248,6 +249,7 @@ Compared different sorting techniques to understand their strengths and limitati
 Solved 2 Object-Oriented Programming (OOP) based scenario questions
 Focused on applying core OOP principles to real-world problem statements
 Strengthened understanding of class design, object interaction, and modular coding
+### 🔗 Code Link:
 [Day - 17 – Sorting in Java](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting)
 [ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
@@ -277,6 +279,7 @@ Focused on writing optimized and scalable Java programs
 Solved 3 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 Strengthened logical thinking and problem decomposition skills
+### 🔗 Code Link:
 [Day - 19 – Runtime Analysis & Big-O Notation](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
 [ Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
@@ -355,7 +358,6 @@ Strengthened understanding of data structure selection and efficient problem-sol
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
-📅 (Date: 16-Jan-2026)
 Studied the Java Collection Framework architecture and hierarchy
 Understood core interfaces, classes, and their relationships
 Practiced usage of List, Set, Queue, Deque, and Map implementations
