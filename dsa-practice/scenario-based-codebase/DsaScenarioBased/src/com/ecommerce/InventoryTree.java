@@ -4,7 +4,7 @@ class InventoryTree {
 
 	Node root; // Root of the BST
 
-	// 🔹 Insert product based on SKU
+	// Insert product based on SKU
 	void insert(int sku, Product product) {
 		root = insertRec(root, sku, product);
 	}
@@ -22,7 +22,7 @@ class InventoryTree {
 		return root; // Return unchanged root
 	}
 
-	// 🔹 Scenario 1: Lookup product using SKU
+	// Lookup product using SKU
 	Product search(int sku) {
 		return searchRec(root, sku);
 	}
