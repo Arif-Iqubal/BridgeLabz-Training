@@ -386,8 +386,13 @@ Strengthened logical thinking and problem decomposition skills
 
 
 
-### Day 28 – DSA & OOPs Scenario-Based Practice
+### Day 28 –  Java I/O Streams, DSA & OOPs Scenario-Based Practice
 📅 (Date: 19-Jan-2026)
+Learned the fundamentals of Java I/O (Input/Output) Streams
+Understood how Java handles data reading and writing using streams
+Studied byte streams, character streams, object streams, and buffered streams
+Implemented file handling, serialization, and in-memory data processing
+Focused on performance, encoding, and best practices
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
@@ -396,6 +401,7 @@ Focused on applying Object-Oriented Programming (OOP) concepts to real-world pro
 ### 🔗 Code Link:
 [Day - 28 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 [ OOps Scenario-Based Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+[Java I/O Streams](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
 
 
 
