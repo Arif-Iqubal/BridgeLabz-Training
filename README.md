@@ -440,3 +440,13 @@ Designed solutions close to enterprise-level applications
 Focused on file processing, data validation, parsing, indexing, and summarization
 ### 🔗 Code Link:
 [Day - 32 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
+
+
+### Day 33 – Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+📅(Date: 24-Jan-2026)
+Solved 5 real-world, scenario-based Java problems
+Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions
+Designed solutions close to enterprise-level applications
+Focused on file processing, data validation, parsing, indexing, and summarization
+### 🔗 Code Link:
+[Day - 33 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
