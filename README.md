@@ -31,3 +31,58 @@ Implemented file handling, serialization, and in-memory data processing
 Focused on performance, encoding, and best practices
 ### 🔗 Code Link:
 [Day 28 – Java I/O Streams](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
+
+
+### Day 29 – Exception Handling in Java
+📅 (Date: 20-Jan-2026)
+Learned Java Exception Handling to manage runtime and compile-time errors
+Studied the complete exception hierarchy
+Practiced handling checked, unchecked, and custom exceptions
+Implemented try-catch, finally, throw, throws, nested try blocks
+Used try-with-resources for efficient resource management
+### 🔗 Code Link:
+[Day 29 – Exception Handling](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
+
+
+
+### Day 30 – Java Regular Expressions (Regex) & JUnit Testing
+📅 (Date: 21-Jan-2026)
+Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text
+Worked with Pattern and Matcher classes from java.util.regex
+Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags)
+Understood metacharacters, quantifiers, and regex methods
+Learned JUnit framework for unit testing in Java
+### 🔗 Code Link:
+[Day 30 – (Regex) & JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
+
+
+### Day 31 – Reflection & Annotations in Java
+📅 (Date: 22-Jan-2026)
+Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime.
+Accessed and modified private fields and methods using the Reflection API.
+Created objects dynamically and invoked methods without using the new keyword.
+Explored dynamic proxies and runtime method interception used in frameworks like Spring.
+Studied built-in and meta-annotations such as @Override, @Retention, and @Target.
+Created and processed custom annotations for logging, validation, and framework integration.
+### 🔗 Code Link:
+[Day 31 – Reflection & Annotations](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflectionandannotation)
+
+
+### Day 32 – Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+📅(Date: 23-Jan-2026)
+Solved 5 real-world, scenario-based Java problems
+Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions
+Designed solutions close to enterprise-level applications
+Focused on file processing, data validation, parsing, indexing, and summarization
+### 🔗 Code Link:
+[Day - 32 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
+
+
+### Day 33 – Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+📅(Date: 24-Jan-2026)
+Solved 5 real-world, scenario-based Java problems
+Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions
+Designed solutions close to enterprise-level applications
+Focused on file processing, data validation, parsing, indexing, and summarization
+### 🔗 Code Link:
+[Day - 33 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
