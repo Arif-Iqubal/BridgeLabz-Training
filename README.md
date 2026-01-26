@@ -20,3 +20,14 @@ Strengthened understanding of real-world use cases and best practices
 [ Queue](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/queue)
 [ Set](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/set)
 [ Map](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/map)
+
+
+### Day 28 – Java I/O Streams
+📅 (Date: 19-Jan-2026)
+Learned the fundamentals of Java I/O (Input/Output) Streams
+Understood how Java handles data reading and writing using streams
+Studied byte streams, character streams, object streams, and buffered streams
+Implemented file handling, serialization, and in-memory data processing
+Focused on performance, encoding, and best practices
+### 🔗 Code Link:
+[Day 28 – Java I/O Streams](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
