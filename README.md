@@ -31,3 +31,14 @@ Implemented file handling, serialization, and in-memory data processing
 Focused on performance, encoding, and best practices
 ### 🔗 Code Link:
 [Day 28 – Java I/O Streams](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
+
+
+### Day 29 – Exception Handling in Java
+📅 (Date: 20-Jan-2026)
+Learned Java Exception Handling to manage runtime and compile-time errors
+Studied the complete exception hierarchy
+Practiced handling checked, unchecked, and custom exceptions
+Implemented try-catch, finally, throw, throws, nested try blocks
+Used try-with-resources for efficient resource management
+### 🔗 Code Link:
+[Day 28 – Exception Handling](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
