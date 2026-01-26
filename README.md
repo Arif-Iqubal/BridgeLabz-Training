@@ -42,3 +42,15 @@ Implemented try-catch, finally, throw, throws, nested try blocks
 Used try-with-resources for efficient resource management
 ### 🔗 Code Link:
 [Day 28 – Exception Handling](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
+
+
+
+### Day 30 – Java Regular Expressions (Regex) & JUnit Testing
+📅 (Date: 21-Jan-2026)
+Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text
+Worked with Pattern and Matcher classes from java.util.regex
+Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags)
+Understood metacharacters, quantifiers, and regex methods
+Learned JUnit framework for unit testing in Java
+### 🔗 Code Link:
+[Day 30 – (Regex) & JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
