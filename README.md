@@ -41,7 +41,7 @@ Practiced handling checked, unchecked, and custom exceptions
 Implemented try-catch, finally, throw, throws, nested try blocks
 Used try-with-resources for efficient resource management
 ### 🔗 Code Link:
-[Day 28 – Exception Handling](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
+[Day 29 – Exception Handling](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
 
 
 
