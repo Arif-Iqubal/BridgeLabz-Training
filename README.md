@@ -404,32 +404,53 @@ Focused on applying Object-Oriented Programming (OOP) concepts to real-world pro
 [Java I/O Streams](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
 
 
-
-### Day 29 – DSA Scenario-Based Practice
+### Day 29 – Exception Handling in Java and DSA Scenario-Based Practice
 📅 (Date: 20-Jan-2026)
+Learned Java Exception Handling to manage runtime and compile-time errors
+Studied the complete exception hierarchy
+Practiced handling checked, unchecked, and custom exceptions
+Implemented try-catch, finally, throw, throws, nested try blocks
+Used try-with-resources for efficient resource management
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
 ### 🔗 Code Link:
+[Day 29 – Exception Handling](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
 [Day - 29 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 
-### Day 30 – DSA Scenario-Based Practice(Sorting + tree(bst))
+### Day 30 – Java Regular Expressions (Regex) & JUnit Testing and DSA Scenario-Based Practice(Sorting + tree(bst))
 📅 (Date: 21-Jan-2026)
+Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text
+Worked with Pattern and Matcher classes from java.util.regex
+Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags)
+Understood metacharacters, quantifiers, and regex methods
+Learned JUnit framework for unit testing in Java
 Solved 5 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying sorting and tree(BST) data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
 ### 🔗 Code Link:
 [Day - 30 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+### 🔗 Code Link:
+[Day 30 – (Regex) & JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
 
 
-### Day 31 – DSA Scenario-Based Practice(tree(AVL))
+### Day 31 – Reflection & Annotations in Java and DSA Scenario-Based Practice(tree(AVL))
 📅 (Date: 22-Jan-2026)
+Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime.
+Accessed and modified private fields and methods using the Reflection API.
+Created objects dynamically and invoked methods without using the new keyword.
+Explored dynamic proxies and runtime method interception used in frameworks like Spring.
+Studied built-in and meta-annotations such as @Override, @Retention, and @Target.
+Created and processed custom annotations for logging, validation, and framework integration.
 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions
 Focused on applying tree(AVL) data structures to real-world problems
 Strengthened understanding of data structure selection and efficient problem-solving
 ### 🔗 Code Link:
 [Day - 31 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+### 🔗 Code Link:
+[Day 31 – Reflection & Annotations](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflectionandannotation)
+
 
 
 ### Day 32 – Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
