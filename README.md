@@ -54,3 +54,15 @@ Understood metacharacters, quantifiers, and regex methods
 Learned JUnit framework for unit testing in Java
 ### 🔗 Code Link:
 [Day 30 – (Regex) & JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
+
+
+### Day 31 – Reflection & Annotations in Java
+📅 (Date: 22-Jan-2026)
+Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime.
+Accessed and modified private fields and methods using the Reflection API.
+Created objects dynamically and invoked methods without using the new keyword.
+Explored dynamic proxies and runtime method interception used in frameworks like Spring.
+Studied built-in and meta-annotations such as @Override, @Retention, and @Target.
+Created and processed custom annotations for logging, validation, and framework integration.
+### 🔗 Code Link:
+[Day 31 – Reflection & Annotations](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflectionandannotation)
