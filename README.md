@@ -66,3 +66,14 @@ Studied built-in and meta-annotations such as @Override, @Retention, and @Target
 Created and processed custom annotations for logging, validation, and framework integration.
 ### 🔗 Code Link:
 [Day 31 – Reflection & Annotations](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflectionandannotation)
+
+
+### Day 32 – Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+📅(Date: 23-Jan-2026)
+Solved 5 real-world, scenario-based Java problems
+Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions
+Designed solutions close to enterprise-level applications
+Focused on file processing, data validation, parsing, indexing, and summarization
+### 🔗 Code Link:
+[Day - 32 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
+
