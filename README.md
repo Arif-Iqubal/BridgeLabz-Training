@@ -432,7 +432,9 @@ Strengthened understanding of data structure selection and efficient problem-sol
 ### 🔗 Code Link:
 [Day - 30 – DSA Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 ### 🔗 Code Link:
-[Day 30 – (Regex) & JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
+[Day 30 – (Regex) & JUnit ](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
+### 🔗 Code Link:
+[Day 30 – JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/tests/junit)
 
 
 ### Day 31 – Reflection & Annotations in Java and DSA Scenario-Based Practice(tree(AVL))
