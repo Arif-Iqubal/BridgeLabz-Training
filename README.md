@@ -53,8 +53,9 @@ Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hasht
 Understood metacharacters, quantifiers, and regex methods
 Learned JUnit framework for unit testing in Java
 ### 🔗 Code Link:
-[Day 30 – (Regex) & JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
-
+[Day 30 – (Regex) & JUnit ](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
+### 🔗 Code Link:
+[Day 30 – JUnit Testing](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/tests/junit)
 
 ### Day 31 – Reflection & Annotations in Java
 📅 (Date: 22-Jan-2026)
