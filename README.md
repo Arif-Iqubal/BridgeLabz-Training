@@ -40,9 +40,9 @@ Practiced adding, committing, and pushing Java files to GitHub
 ### Day 3 – Programming Elements in Java
 📅(Date: 18-Dec-2025)
 Studied core Java programming elements:
-    Variables & Data Types
-    Operators
-    User Input & Output
+   - Variables & Data Types
+   - Operators
+   - User Input & Output
 Solved practice problems based on programming elements
 Committed and pushed solutions to the repository
 ### 🔗 Code Link:
@@ -52,16 +52,16 @@ Committed and pushed solutions to the repository
 📅(Date: 19-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Control Flow Lab Practices
 Practiced and implemented core Java Control Flow concepts, including:
-    Java Control Flow statements
-    Boolean data type
-    Boolean expressions
-    Logical operators
-    if, else if, and else conditional statements
-    Looping constructs:
-      for loop
-      while loop
-    break and continue statements
-    switch statement
+   - Java Control Flow statements
+   - Boolean data type
+   - Boolean expressions
+   - Logical operators
+   - if, else if, and else conditional statements
+   - Looping constructs:
+     * for loop
+     * while loop
+   - break and continue statements
+   - switch statement
 ### 🔗 Code Link:
 [Day - 4 Control flow practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
@@ -69,17 +69,17 @@ Practiced and implemented core Java Control Flow concepts, including:
 📅(Date: 20-Dec-2025)
 Submitted Level 1 and Level 2 Arrays Lab Practices
 Practiced core Java Arrays concepts, including:
-    Introduction to Java Arrays
-    Creating an array
-    Accessing array elements
-    Accessing arrays using for loops
-    Modifying array elements
-    Using the length property of arrays
-    Multi-dimensional arrays
-    Two-dimensional arrays (Matrix)
-    Accessing elements and finding size of multi-dimensional arrays
-    Using System.err() for error messages
-    Using System.exit() method for program termination
+  -  Introduction to Java Arrays
+  -  Creating an array
+  -  Accessing array elements
+  -  Accessing arrays using for loops
+  -  Modifying array elements
+  -  Using the length property of arrays
+  -  Multi-dimensional arrays
+  -  Two-dimensional arrays (Matrix)
+  -  Accessing elements and finding size of multi-dimensional arrays
+  -  Using System.err() for error messages
+  -  Using System.exit() method for program termination
 ### 🔗 Code Link:
 [Day - 5 Array practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
@@ -87,13 +87,13 @@ Practiced core Java Arrays concepts, including:
 📅(Date: 22-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Java Methods Practice Programs
 Practiced and implemented essential Java Methods concepts, including:
-    User-defined methods
-    Reusing methods multiple times
-    Making methods more dynamic using parameters
-    Recursive methods
-    Static methods in Java
-    Java Standard Library methods
-    Usage of the java.lang.Math class
+  -  User-defined methods
+  -  Reusing methods multiple times
+  -  Making methods more dynamic using parameters
+  -  Recursive methods
+  -  Static methods in Java
+  -  Java Standard Library methods
+  -  Usage of the java.lang.Math class
 ### 🔗 Code Link:
 [Day - 6 java methods practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
@@ -101,18 +101,18 @@ Practiced and implemented essential Java Methods concepts, including:
 📅(Date: 23-Dec-2025)
 Submitted Level 1, Level 2, and Level 3 Java String Lab Practices
 Practiced and implemented important Java String and Exception Handling concepts, including:
-    Java Strings and string creation
-    Use of escape sequences (\)
-    Taking string input from the user
-    String arrays
-    Passing strings as method parameters
-    Built-in methods of the String class
-    ASCII character codes
-    Java exceptions overview
-    Java exception hierarchy
-    Types of exceptions:
-        Checked exceptions
-        Unchecked exceptions (java.lang.RuntimeException)
+  *  Java Strings and string creation
+  *  Use of escape sequences (\)
+  *  Taking string input from the user
+  *  String arrays
+  *  Passing strings as method parameters
+  *  Built-in methods of the String class
+  *  ASCII character codes
+  *  Java exceptions overview
+  *  Java exception hierarchy
+  *  Types of exceptions:
+       - Checked exceptions
+       - Unchecked exceptions (java.lang.RuntimeException)
 ### 🔗 Code Link:
 [Day - 7 Java String practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
@@ -121,11 +121,11 @@ Practiced and implemented important Java String and Exception Handling concepts,
 Submitted Extra Java String Practice Problems
 Focused on strengthening practical usage of Strings through problem-solving
 Implemented programs emphasizing:
-      String handling techniques
-      Common string functions
-      Function usage for string operations
-      Function parameter passing
-      Returning values from functions
+    -  String handling techniques
+    -  Common string functions
+    -  Function usage for string operations
+    -  Function parameter passing
+    -  Returning values from functions
 Submitted Extra Built-In Function Practice Problems
 Focused on understanding and applying common Java built-in functions
 Practiced building correct program logic using standard library methods instead of manual implementations
@@ -210,9 +210,9 @@ Solved several scenario-based programming questions to apply concepts practicall
 Learned the fundamentals of Data Structures and their importance in efficient programming
 Studied different types of data structures used in Java
 Focused in detail on Linked Lists, including:
-    Singly Linked List
-    Doubly Linked List
-    Circular Linked List
+    - Singly Linked List
+    - Doubly Linked List
+    - Circular Linked List
 Implemented and understood core operations on linked lists
 Solved 6 scenario-based Java programming questions
 Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
@@ -465,11 +465,24 @@ Focused on file processing, data validation, parsing, indexing, and summarizatio
 [Day - 32 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
 
 
-### Day 33 – Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
-📅(Date: 24-Jan-2026)
-Solved 5 real-world, scenario-based Java problems
+
+### Day 33 – CSV & JSON Data Handling, Scenario-Based Problems (Collections, Generics, I/O & Regex)
+📅 (Date: 24-Jan-2026)
+Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
+Covered key concepts including:
+- Reading and writing CSV files using BufferedReader/Writer
+- Handling CSV data efficiently with OpenCSV
+- Mapping CSV records to Java objects (CsvToBean)
+- Validating CSV fields using regex and data checks
+- Understanding JSON structure (objects, arrays, nested data)
+- Creating, reading, writing, and parsing JSON using org.json, Gson, and Jackson
+- Dynamic JSON parsing with JsonNode and JSON schema validation
+ Solved 5 real-world, scenario-based Java problems
 Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions
 Designed solutions close to enterprise-level applications
 Focused on file processing, data validation, parsing, indexing, and summarization
+### 🔗 Code Link:
+[Day - 33 CSV Handling Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIostreamPractice/src/main/java/com/csv)
+[JSON Handling Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIostreamPractice/src/main/java/com/json)
 ### 🔗 Code Link:
 [Day - 33 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
