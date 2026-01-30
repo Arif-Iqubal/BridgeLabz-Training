@@ -477,7 +477,7 @@ Covered key concepts including:
 - Understanding JSON structure (objects, arrays, nested data)
 - Creating, reading, writing, and parsing JSON using org.json, Gson, and Jackson
 - Dynamic JSON parsing with JsonNode and JSON schema validation
- Solved 5 real-world, scenario-based Java problems
+<br>Solved 5 real-world, scenario-based Java problems
 Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions
 Designed solutions close to enterprise-level applications
 Focused on file processing, data validation, parsing, indexing, and summarization
