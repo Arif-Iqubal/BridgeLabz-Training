@@ -1,0 +1,21 @@
+package com.lambdaexpressions.notificationfilter;
+
+//Alert entity class
+public class Alert {
+	private String type;
+	private String message;
+
+	public Alert(String type, String message) {
+		this.type = type;
+		this.message = message;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	@Override
+	public String toString() {
+		return "[" + type + "] " + message;
+	}
+}
