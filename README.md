@@ -529,13 +529,12 @@ Practiced interface-based design and modern Java interface features.
 - Default and static methods
 - Method conflict resolution
 - Polymorphism and decoupling
-  <br>Functional Interfaces:
+<br><br>Functional Interfaces:
 - SAM concept and @FunctionalInterface
 - Built-in functional interfaces
 - Custom functional interfaces
 - Lambda compatibility (SAM conversion)
-  <br>Also explored marker interfaces vs annotations and common design pitfalls.
-<br>
+<br><br>Also explored marker interfaces vs annotations and common design pitfalls.
 Practiced Java 8 Stream API using a real-world **Employee dataset** to solve analytical and aggregation-based problems.
 <br>Worked on scenarios involving:
 - Counting male/female employees (overall & department-wise)
@@ -554,6 +553,7 @@ Practiced Java 8 Stream API using a real-world **Employee dataset** to solve ana
 [Day - 35 Interfaces Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/functionalinterface)
 <br>
 [Day - 35 Stream API Employee Scenarios](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeeoperation)
+
 
 
 
