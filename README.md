@@ -38,3 +38,29 @@ Practiced interface-based design and modern Java interface features.
 
 ### 🔗 Code Link:
 [Day - 35 Interfaces Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/functionalinterface)
+
+
+
+### Day 36 – Java Stream API & Parallel Streams
+📅 (Date: 29-Jan-2026)
+
+Practiced functional-style data processing using the Java Stream API.
+
+<br>Covered:
+- Stream pipeline structure (source → intermediate → terminal)
+- Intermediate operations: filter, map, sorted, distinct
+- Terminal operations: collect, forEach, count
+- Lazy evaluation and stateless vs stateful operations
+- Ordered vs unordered streams
+
+<br><br>Parallel Streams:
+- parallelStream() vs sequential stream
+- ForkJoinPool and multi-threaded execution
+- Order handling with forEachOrdered()
+- Performance considerations and best practices
+
+<br><br>Also practiced forEach() with lambdas and method references.
+
+### 🔗 Code Link:
+[Day - 36 Stream API Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/stream)
+
