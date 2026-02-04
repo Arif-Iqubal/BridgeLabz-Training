@@ -557,3 +557,22 @@ Practiced functional-style data processing using the Java Stream API.
 
 ### 🔗 Code Link:
 [Day - 36 Stream API Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/stream)
+
+
+### Day 37 – Collectors in Java Stream API
+📅 (Date: 30-Jan-2026)
+
+Explored the role and capabilities of Collectors used with the Stream.collect() method for data aggregation and transformation.
+
+<br>Covered:
+- Converting streams to collections using toList(), toSet(), toMap()
+- Transforming and aggregating stream data
+- Grouping elements using groupingBy()
+- Partitioning data using partitioningBy()
+- Joining stream elements into strings with joining()
+- Generating statistics using summarizingInt()
+
+<br><br>Practiced real-world scenarios including grouping, partitioning, mapping, and statistical summaries using Collectors.
+
+### 🔗 Code Link:
+[Day - 37 Collectors Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/collector)
