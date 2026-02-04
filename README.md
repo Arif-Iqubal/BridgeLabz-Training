@@ -520,28 +520,40 @@ Practiced functional programming concepts in Java using Lambda Expressions and M
 <br>
 [**EventTracker**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/eventtracker)
 
-### Day 35 – Interfaces & Functional Interfaces in Java
+### Day 35 – Interfaces & Functional Interfaces in Java, and Stream API Practice (Real-Time Employee Scenarios)
 📅 (Date: 28-Jan-2026)
-
 Practiced interface-based design and modern Java interface features.
-
 <br>Covered:
 - Defining and implementing interfaces
 - Interface best practices and ISP
 - Default and static methods
 - Method conflict resolution
 - Polymorphism and decoupling
-
-<br><br>Functional Interfaces:
+  <br>Functional Interfaces:
 - SAM concept and @FunctionalInterface
 - Built-in functional interfaces
 - Custom functional interfaces
 - Lambda compatibility (SAM conversion)
-
-<br><br>Also explored marker interfaces vs annotations and common design pitfalls.
-
+  <br>Also explored marker interfaces vs annotations and common design pitfalls.
+<br>
+Practiced Java 8 Stream API using a real-world **Employee dataset** to solve analytical and aggregation-based problems.
+<br>Worked on scenarios involving:
+- Counting male/female employees (overall & department-wise)
+- Extracting department names and grouping employees by department
+- Calculating average age and average salary (gender-wise & department-wise)
+- Finding highest, lowest, second/third highest & lowest paid employees
+- Identifying most experienced and youngest employees
+- Filtering employees based on joining year and salary thresholds
+- Retrieving top/bottom 5 highest and lowest paid employees
+- Computing total and average salary of the organization
+<br>Focused on effective usage of:
+- `filter`, `map`, `sorted`, `limit`
+- `Collectors.groupingBy`, `partitioningBy`, `averagingDouble`, `counting`
+- Comparator chaining and Optional handling
 ### 🔗 Code Link:
 [Day - 35 Interfaces Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/functionalinterface)
+<br>
+[Day - 35 Stream API Employee Scenarios](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeeoperation)
 
 
 
