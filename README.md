@@ -490,3 +490,28 @@ Focused on file processing, data validation, parsing, indexing, and summarizatio
 [Day - 33 CSV Handling Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIostreamPractice/src/main/java/com/csv)
 ### 🔗 Code Link:
 [Day - 33 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
+
+
+### Day 34 – Lambda Expressions & Method References in Java
+📅 (Date: 27-Jan-2026)
+
+Focused on understanding functional-style programming in Java using lambda expressions and method references. Practiced writing concise, readable code by replacing anonymous classes with lambdas and explored how Java infers types using target typing.
+
+<br>Covered key concepts including:
+- Lambda expression syntax (no parameter, single parameter, multiple parameters)
+- Functional interfaces and target typing
+- Type inference in lambda expressions
+- Closures and effectively final variables
+- Difference between lambda expressions and anonymous inner classes
+- Using lambdas with Streams, Predicate, Comparator, and Runnable
+
+<br><br>Explored Method References for cleaner and more readable code  
+- Static method references  
+- Instance method references (bound and unbound)  
+- Constructor references  
+- Handling ambiguity with overloaded methods  
+
+Applied lambdas and method references in real-world examples such as filtering collections, sorting data, and stream processing.
+
+### 🔗 Code Link:
+[Day - 34 Lambda & Method Reference Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/lambdaexpressions)
