@@ -492,23 +492,33 @@ Focused on file processing, data validation, parsing, indexing, and summarizatio
 [Day - 33 – Collections Scenario-Based Problem](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
 
 
-### Day 34 – Lambda Expressions & Method References in Java
+### Day 34 – Lambdas, Method References & Scenario-Based Problems
 📅 (Date: 27-Jan-2026)
 
-Focused on understanding functional-style programming in Java using lambda expressions and method references. Practiced writing concise, readable code by replacing anonymous classes with lambdas and explored how Java infers types using target typing.
+Practiced functional programming concepts in Java using Lambda Expressions and Method References to write clean, concise, and readable code.
 
-<br>Covered key concepts including:
-- Lambda expression syntax (no parameter, single parameter, multiple parameters)
-- Functional interfaces and target typing
-- Type inference in lambda expressions
-- Closures and effectively final variables
-- Difference between lambda expressions and anonymous inner classes
-- Using lambdas with Streams, Predicate, Comparator, and Runnable
+<br>Covered:
+- Lambda expressions and functional interfaces
+- Method references (static, instance, constructor)
+- Stream-based filtering and transformations
+- Effective use of predicates, consumers, and functions
 
+<br><br>Solved real-world scenario-based problems involving advanced Java concepts:
+- **HealthCheckPro** – Used custom annotations and reflection to scan API methods and auto-generate metadata/documentation
+- **MarkMate** – Processed student marks from CSV files and generated JSON report cards with totals, averages, and grades
+- **EventTracker** – Built an audit system using annotations and reflection to generate structured JSON logs for user actions
+
+<br>Focused on practical usage of **Annotations, Reflection, CSV & JSON data handling**, and exception-safe design patterns.
 
 ### 🔗 Code Link:
 [Day - 34 Lambda & Method Reference Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/lambdaexpressions)
-
+<br> 
+####  Scenario-Based Problems links
+[ **HealthCheckPro**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/healthcheckpro)
+<br>
+[**MarkMate**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/markmate)
+<br>
+[**EventTracker**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/eventtracker)
 
 ### Day 35 – Interfaces & Functional Interfaces in Java
 📅 (Date: 28-Jan-2026)
