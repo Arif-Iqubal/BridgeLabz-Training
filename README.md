@@ -19,3 +19,23 @@ Worked on reading, writing, parsing, and validating structured data formats comm
 - Dynamic JSON parsing with JsonNode and JSON schema validation
 ### 🔗 Code Link:
 [JSON Handling Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIostreamPractice/src/main/java/com/json)
+
+
+### Day 34 – Scenario-Based Problems
+📅 (Date: 27-Jan-2026)
+
+<br><br>Solved real-world scenario-based problems involving advanced Java concepts:
+- **HealthCheckPro** – Used custom annotations and reflection to scan API methods and auto-generate metadata/documentation
+- **MarkMate** – Processed student marks from CSV files and generated JSON report cards with totals, averages, and grades
+- **EventTracker** – Built an audit system using annotations and reflection to generate structured JSON logs for user actions
+
+<br>Focused on practical usage of **Annotations, Reflection, CSV & JSON data handling**, and exception-safe design patterns.
+
+### 🔗 Code Link:
+####  Scenario-Based Problems links
+[ **HealthCheckPro**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/healthcheckpro)
+<br>
+[**MarkMate**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/markmate)
+<br>
+[**EventTracker**](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/scenario-based-codebase/IoStreamsScenarioBased/src/main/java/com/eventtracker)
+
