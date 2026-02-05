@@ -617,4 +617,4 @@ Designed a real-world **Smart City Transport & Service Management System** lever
 - Built a system easily extensible to new services (Ferry, Bike Rental) via interfaces  
 - Demonstrated clean, scalable, and enterprise-ready Java 8 design principles
 ### 🔗 Code Link:
-[Day - 37 Java 8 workshop](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/workshop)
+[Day - 38 Java 8 workshop](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/workshop)
