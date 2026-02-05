@@ -598,3 +598,23 @@ Explored the role and capabilities of Collectors used with the Stream.collect() 
 
 ### 🔗 Code Link:
 [Day - 37 Collectors Practice](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/collector)
+
+
+
+### Day 38 – Smart City Transport & Service Management System (Java 8)
+📅 (Date: 31-Jan-2026)
+Designed a real-world **Smart City Transport & Service Management System** leveraging core **Java 8 features** to build a modern, extensible, and clean architecture.
+<br>Worked on:
+- Using **Lambda Expressions** to filter and sort transport schedules (time, fare, availability)
+- Applying **Method References** for logging, printing services, and utility method calls
+- Designing **interfaces with default & static methods** for shared transport behavior
+- Implementing **Stream API + forEach()** to process and display live transport data
+- Using **Collectors** (`groupingBy`, `partitioningBy`, `summarizingDouble`) for analytics and revenue reports
+- Implementing **Functional Interfaces** with lambdas for dynamic fare calculation
+- Using **Marker Interfaces** to prioritize emergency services (ambulance, fire services)
+<br>Outcome:
+- Enabled real-time filtering, grouping, and summarization of transport data  
+- Built a system easily extensible to new services (Ferry, Bike Rental) via interfaces  
+- Demonstrated clean, scalable, and enterprise-ready Java 8 design principles
+### 🔗 Code Link:
+[Day - 37 Java 8 workshop](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/Java8Concepts/src/com/workshop)
