@@ -91,7 +91,7 @@ public class MultiOperation {
 		Map<String, Long> departmentCount = employees.stream()
 				.collect(Collectors.groupingBy(Employee::getDepartment, Collectors.counting()));
 		System.out.println("The number of employees in each department");
-		System.out.println(departmentCount);
+		System.out.println(departmentCount); 
 		System.out.println("---------------------------------------------------");
 
 		//7. What is the average salary of each department ?
