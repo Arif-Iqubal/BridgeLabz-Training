@@ -16,3 +16,24 @@ Learned **MySQL Indexing concepts** to improve database query performance and ef
 - Improved understanding of query optimization and performance tuning
 ### 🔗 Code Link:
 [Day - 42 MySql](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/MysqlConcepts/src/com/mysql/basic)
+
+
+### Day 44 – JDBC Architecture and Database Connectivity
+📅 (Date: 09-Feb-2026)
+
+Learned Java Database Connectivity (JDBC) for interacting with relational databases and performing persistent data operations.
+
+<br>Covered:
+- Understanding JDBC architecture and its components
+- Establishing database connection using DriverManager and Connection
+- Performing CRUD operations (Create, Read, Update, Delete)
+- Difference between Statement and PreparedStatement and their usage
+- Managing transactions using commit() and rollback()
+- Introduction to connection pooling for efficient resource management
+- JDBC best practices for performance, security, and maintainability
+
+<br>Outcome:
+- Gained practical knowledge of connecting Java applications with databases
+- Learned efficient and secure database interaction using JDBC
+### 🔗 Code Link:
+[Day - 44 JDBC](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/JavajdbcConcepts/src/main/java/com/jdbc)
