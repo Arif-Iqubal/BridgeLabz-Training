@@ -664,3 +664,23 @@ Studied **core concepts of Java Multithreading** and thread management.
 - Ability to create, control, and manage threads safely in Java
 ### 🔗 Code Link:
 [Day - 40 Multi-threading](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesignPatternConcepts/src/com/multithreading)
+
+
+### Day 41 – Java 8 Streams Practice and Problem Solving
+📅 (Date: 04-Feb-2026)
+
+Solved multiple real-world and logical problems using the Java 8 Stream API to strengthen functional programming skills.
+
+<br>Covered:
+- Filtering, mapping, sorting, and collecting data using streams
+- Using Collectors such as groupingBy(), partitioningBy(), counting(), and summarizing
+- Finding highest, lowest, and nth highest values using streams
+- Performing aggregations like average, sum, and count efficiently
+- Applying method references and lambda expressions in stream pipelines
+- Improving code readability and performance using functional-style programming
+
+<br>Outcome:
+- Strengthened problem-solving skills using Java 8 Streams
+- Improved ability to process and analyze collections efficiently
+### 🔗 Code Link:
+[Day - 41 Java8 Scenario](https://github.com/Arif-Iqubal/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/Java8ScenarioBased/src/com/studentoperation)
