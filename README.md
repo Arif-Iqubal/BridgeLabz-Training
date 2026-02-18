@@ -5,24 +5,120 @@ Installed and configured Git.
 
 Set up GitHub repository.
 ``` bash
-  BridgeLabz-Training/
-  │
-  ├── core-java-practice/
-  │   ├── gcr-codebase/
-  │   │   ├── arrays/
-  │   │   ├── builtIn-functions/
-  │   │   ├── control-flow/
-  │   │   ├── java-methods/
-  │   │   ├── programming-elements/
-  │   │   ├── string-handling/
-  │   │   └── strings/
-  │   │
-  │   ├── leet-code-codebase/
-  │   └─scenario-based/─ 
-  │   │
-  │   └─README.md
-  │
-  └── README.md
+ BridgeLabz-Training/
+│
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── builtin-functions/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   ├── string-handling/
+│   │   └── strings/
+│   │
+│   ├── leet-code-codebase/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── README.md
+│
+├── dsa-practice/
+│   ├── gcr-code-base/JavaDsaConcepts/
+│   │   ├── algorithmanalysis/
+│   │   ├── hashmapsandhashfunctions/
+│   │   ├── linearandbinarysearch/
+│   │   ├── linkedlist/
+│   │   ├── queue/
+│   │   ├── sorting/
+│   │   └── stack/
+│   │
+│   ├── scenario-based-codebase/
+│   │
+│   └── README.md
+│
+├── java8-practice/
+│   ├── gcr-code-base/Java8Concepts/
+│   │   ├── collector/
+│   │   ├── functionalinterface/
+│   │   ├── lambdaexpressions/
+│   │   ├── stream/
+│   │   └── workshop/
+│   │
+│   ├── scenario-based-codebase/
+│   │
+│   └── README.md
+│
+├── java-collections-practice/
+│   ├── gcr-code-base/JavaCollectionsConcepts/
+│   │   └── src/com/
+│   │       ├── exceptions/
+│   │       ├── generics/
+│   │       ├── list/basic/
+│   │       ├── map/
+│   │       ├── queue/
+│   │       ├── reflectionandannotation/
+│   │       ├── regexandjunit/
+│   │       ├── set/
+│   │       ├── streams/
+│   │       └── tests/junit/
+│   │
+│   ├── scenario-based-codebase/
+│   │
+│   └── README.md
+│
+├── java-design-pattern-practice/
+│   ├── gcr-code-base/
+│   │   ├── designpattern/
+│   │   │   └── smartlibrarymanagement/
+│   │   └── multithreading/
+│   │
+│   └── README.md
+│
+├── java-iostream-practice/
+│   ├── gcr-code-base/JavaIOStreamPractice/
+│   │   ├── src/main/java/com/
+│   │   │   ├── csv/
+│   │   │   └── json/
+│   │   │
+│   │   ├── src/main/resources/docs/
+│   │   │   ├── csv/
+│   │   │   └── json/
+│   │   │
+│   │   └── pom.xml
+│   │
+│   ├── scenario-based-codebase/
+│   │
+│   └── README.md
+│
+├── java-oops-practice/
+│   ├── gcr-code-base/JavaOopsConcepts/
+│   │   ├── classandobject/
+│   │   ├── constructorandinstance/
+│   │   ├── encapsulationandpolymorphism/
+│   │   ├── inheritance/
+│   │   ├── javakeywords/
+│   │   └── objectmodeling/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── README.md
+│
+├── mysql-jdbc-practice/
+│   ├── gcr-code-base/
+│   │     ├── JavaJdbcConcepts/
+│   │     │  ├── src/main/java/com/jdbc/
+│   │     │  │         ├── connectionestablish/
+│   │     │  │         └── crud/
+│   │     │  └── pom.xml
+│   │     │
+│   │     └── MysqlConcepts/
+│   │
+│   │
+│   └── README.md
+│
+└── README.md
+
 
 ```
 Learned basic Git commands (init, clone, add, commit, push).
